@@ -13,6 +13,6 @@ terraform {
       version = "3.4.3"
     }
   }
-
-  required_version = "~> 1.3.0"
+#You will have to change this to your current version
+  required_version = "~> 1.9.8"
 }
