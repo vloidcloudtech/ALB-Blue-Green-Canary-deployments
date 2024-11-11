@@ -1,6 +1,6 @@
 Lessons Learned: Implementing Blue-Green and Canary Deployments with AWS ALB and Terraform
 ------------------------------------------------------------------------------------------
-
+## https://medium.com/@vloidcloudtech/achieving-zero-downtime-deployments-with-blue-green-and-canary-strategies-using-aws-alb-and-8f58af37515d
 ### 1\. Importance of Infrastructure as Code (IaC)
 
 **Takeaway:** Leveraging Terraform for Infrastructure as Code (IaC) streamlined the setup, management, and version control of AWS resources, allowing automated, consistent deployments.
